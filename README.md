@@ -25,9 +25,9 @@ Add project screenshots:
 ![Screenshot1](./assets/screenshot1.jpeg)  
 ![Screenshot2](./assets/screenshot2.png)
 
-## Demo Video
-Upload your demo video to Google Drive and paste the shareable link here (max 3 minutes).
-[Watch Demo](#)
+## 🎥 Demo Video  
+[![Watch Demo](./assets/screenshot1.jpeg)](https://drive.google.com/file/d/1M2gdZzzaT2PhjR01Fw6S7rYav_LYAQSv/view?usp=sharing)
+
 
 ## Installation Steps
 ```bash
