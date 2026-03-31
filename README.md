@@ -17,10 +17,7 @@ Aegis AI integrates Google AI at its core:
 2. **Structured Risk Data**: Using Gemini's JSON response capabilities, the AI provides structured data including risk scores, threat types, and specific findings.
 3. **Conversational Intelligence**: The Aegis Assistant uses Gemini to provide context-aware security advice, helping users navigate complex cybersecurity scenarios in natural language.
 
-## Proof of Google AI Usage
-Attach screenshots in a `/proof` folder:
 
-![AI Proof](./assets/screenshot1.jpeg)
 
 ## Screenshots 
 Add project screenshots:
