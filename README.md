@@ -20,12 +20,12 @@ Aegis AI integrates Google AI at its core:
 ## Proof of Google AI Usage
 Attach screenshots in a `/proof` folder:
 
-![AI Proof](./proof/screenshot1.png)
+![AI Proof](./assets/screenshot1.jpeg)
 
 ## Screenshots 
 Add project screenshots:
 
-![Screenshot1](./assets/screenshot1.png)  
+![Screenshot1](./assets/screenshot1.jpeg)  
 ![Screenshot2](./assets/screenshot2.png)
 
 ## Demo Video
