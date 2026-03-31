@@ -35,7 +35,7 @@ Upload your demo video to Google Drive and paste the shareable link here (max 3 
 ## Installation Steps
 ```bash
 # Clone the repository
-git clone <your-repo-link>
+git clone <https://github.com/aswin6373/aegis_ai.git>
 
 # Go to project folder
 cd aegis-ai
